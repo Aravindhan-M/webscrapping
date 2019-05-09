@@ -1,0 +1,7 @@
+*.jl
+*.html
+*.txt
+/tutorial/images/
+/tutorial/*.csv
+/tutorial/*.jl
+/tutorial/*.txt
